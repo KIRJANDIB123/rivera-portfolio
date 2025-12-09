@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: "https://github.com/KIRJANDIB123/rivera_portfolio",
+    base: "https://github.com/KIRJANDIB123/rivera-portfolio.git",
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
