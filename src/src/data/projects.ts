@@ -69,7 +69,7 @@ export const projects: Project[] = [
   {
     title: "MH-USA Project",
     category: "Web Development",
-    imageUrl: "https://www.mh-usa.com/wp-content/uploads/2024/08/Warehouse-Optimization-3.jpg",
+    imageUrl: "https://www.mh-usa.com/wp-content/uploads/2024/08/Warehouse-Optimization-3.jpg ",
     tags: ["Wordpress"],
     description: "Multiple website builds focusing on responsive UI, animations, and clean user interface design.",
     media: {
